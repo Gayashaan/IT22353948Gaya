@@ -16,6 +16,7 @@
 </p>
 
 ### About Me :
+🎓I'm Gayashaan Krishnamoorthy, a self learning **Programmer** and a **Freelancer**. I am also Pursuing my Bachelor in **Software Engineering** and will graduate in end-2026.
 
 ---
 
