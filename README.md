@@ -16,7 +16,7 @@
 </p>
 
 ### About Me :
-🎓I'm Gayashaan Krishnamoorthy, a self learning **Programmer** and love to learn new Technologies. I am also Pursuing my Bachelor in **Software Engineering**
+I'm Gayashaan Krishnamoorthy, a self learning **Programmer** and love to learn new Technologies. I am also Pursuing my Bachelor in **Software Engineering**
 
 ---
 
