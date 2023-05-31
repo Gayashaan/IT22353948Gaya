@@ -12,7 +12,7 @@
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IT22353948Gaya&show_icons=true&theme=cobalt" />  -->
 
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IT2235394Gaya8&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IT2235394Gaya&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
 </p>
 
 ### About Me :
