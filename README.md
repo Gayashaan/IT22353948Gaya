@@ -7,12 +7,12 @@
 ---
 
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IT22353948Gaya&show_icons=true&count_private=true&hide_border=true&theme=dark&background=000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gayashaan&show_icons=true&count_private=true&hide_border=true&theme=dark&background=000000" />
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IT22353948Gaya&show_icons=true&theme=cobalt" />  -->
 
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IT22353948Gaya&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gayashaan&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
 </p>
 
 ### About Me :
