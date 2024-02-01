@@ -1,4 +1,4 @@
-![image](https://github.com/Gayashaan/Gayashaan/assets/82099281/5044d67e-e4c7-4d35-81e0-ad31e6bc14b9)### Hi there, I'm Gayashaan Krishnamoorthy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" />
+### Hi there, I'm Gayashaan Krishnamoorthy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" />
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayashaan-krishnamoorthy/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gaya_shaan/)
