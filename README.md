@@ -1,10 +1,17 @@
-### Hi there, I'm Gayashaan Krishnamoorthy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" />
+![image](https://github.com/Gayashaan/Gayashaan/assets/82099281/5044d67e-e4c7-4d35-81e0-ad31e6bc14b9)### Hi there, I'm Gayashaan Krishnamoorthy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" />
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayashaan-krishnamoorthy/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gaya_shaan/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/gayashaan.moorthy)
-<!-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) -->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gayashaan49@gmail.com)
 ---
+
+### About Me :
+I'm Gayashaan Krishnamoorthy, a self learning **Programmer** and love to learn new Technologies. I am also Pursuing my Bachelor in **Software Engineering**
+
+- 🌱 I’m currently learning React & Next Js
+- 📫 How to reach me: gayashaan49@gmail.com
+- 💬 Ask me about C,C++,Python,Javascript,Java,Sql,OOP
 
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gayashaan&show_icons=true&count_private=true&hide_border=true&theme=dark&background=000000" />
@@ -14,9 +21,6 @@
 
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gayashaan&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
 </p>
-
-### About Me :
-I'm Gayashaan Krishnamoorthy, a self learning **Programmer** and love to learn new Technologies. I am also Pursuing my Bachelor in **Software Engineering**
 
 ---
 
