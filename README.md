@@ -14,7 +14,7 @@ I'm Gayashaan Krishnamoorthy, a self learning **Programmer** and love to learn n
 - 💬 Ask me about C,C++,Python,Javascript,Java,Sql,OOP
 
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IT22353948n&show_icons=true&count_private=true&hide_border=true&theme=dark&background=000000" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IT22353948&show_icons=true&count_private=true&hide_border=true&theme=dark&background=000000" />
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IT22353948&show_icons=true&theme=cobalt" />  -->
 
